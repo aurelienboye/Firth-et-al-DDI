@@ -3,3 +3,4 @@ logo: /img/sabellaria-alveolata_arnaud-guerin.jpeg
 description: Sabellaria alveolata © Arnaud Guérin
 show_downloads: true
 google_analytics:
+theme: jekyll-theme-minimal
